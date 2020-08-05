@@ -20,6 +20,8 @@ Este es el resultado del cuadro de sudoku, fue realizado con las siguientes tecn
  
  npm run dev
  
+ php artisan migrate
+ 
  php artisan serve
     
  ```
